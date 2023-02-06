@@ -7,7 +7,7 @@
 
 import java.util.Scanner;
 
-public class Fibonacci {
+public class P1_Fibonacci_Series {
     public static void main(String[] args) {
         int a = 0;
         int b = 1;
